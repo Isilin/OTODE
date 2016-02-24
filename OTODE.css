@@ -1,0 +1,55 @@
+/* Texture */
+div.exception{
+	background-color: purple ;
+	border: 1px solid purple;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px rgba(128, 0, 128, 0.5)
+}
+
+h5.exception{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+p.exception, th.exception, td.exception{
+	font-size: 12px;
+}
+
+table.exception, thead.exception, tbody.exception, tr.exception, th.exception, td.exception{
+	border-spacing: 0;
+	border: 1px solid magenta;
+}
+
+/* Position */
+div.exception{
+	margin: 5px 5px 5px 5px;
+	width: auto;
+	max-width: 50%;
+	padding: 5px 5px 5px 5px;
+}
+
+h5.exception{
+	margin: 0;
+	margin-left: 5px ;
+}
+
+p.exception, table.exception{
+	margin: 0;
+	margin-left: 25px ;
+}
+
+h5.exception, p.exception{
+	margin-bottom: 0px ;
+}
+
+thead.exception, tbody.exception, tr.exception, th.exception, td.exception{
+	margin: 0;
+}
+
+table.exception, thead.exception, tbody.exception, tr.exception{
+	padding: 0;
+}
+
+th.exception, td.exception{
+	padding: 5px 5px 5px 5px;
+}
